@@ -58,15 +58,15 @@
     "@firebase/messaging-interop-types": "0.1.0",
     "@firebase/util": "1.6.3",
     "@firebase/component": "0.5.17",
-    "idb": "7.0.1",
+    "idb": "7.0.2",
     "tslib": "^2.1.0"
   },
   "devDependencies": {
     "@firebase/app": "0.7.29",
-    "rollup": "2.72.1",
-    "rollup-plugin-typescript2": "0.31.2",
+    "rollup": "2.77.2",
+    "rollup-plugin-typescript2": "0.32.1",
     "@rollup/plugin-json": "4.1.0",
-    "ts-essentials": "9.1.2",
+    "ts-essentials": "9.2.0",
     "typescript": "4.2.2"
   },
   "repository": {
